@@ -1,10 +1,9 @@
 ## Rooms
 | Name  | 
 | ------------ |  
-| bedroom | 
+| bed room | 
 | kitchen | 
 | office | 
 | living room | 
-| bathroom | 
 
 
