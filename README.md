@@ -27,19 +27,18 @@
 
 |     | Thu May 2 | Fri May 3 | Sat May 4 | Sun May 5 |
 |-----|------------|------------|------------|------------|
-|09:00|     | Receptionist | GPSR | Restaurant | |
-|10:00|     | Receptionist | GPSR | Restaurant | |
-|11:00| | Receptionist | GPSR | Restaurant | |
+|09:00|     |  |  |  | |
+|10:00|     | Receptionist | Serve Breakfast | Restaurant | |
+|11:00| |  |  |  | |
 |12:00| | | |  | |
-|13:00| | Storing Groceries | Serve Breakfast | Stickler for the Rules | |
-|14:00| | Storing Groceries  | Serve Breakfast | Stickler for the Rules | |
-|15:00| | Storing Groceries  | Serve Breakfast | Stickler for the Rules | |
+|13:00| |  |  |  | |
+|14:00| | Carry my luggage  | GPSR | Stickler for the Rules | |
+|15:00| |   |  |  | |
 |16:00| Team Leader Meeting | | | | |
-|17:00| Mapping | Carry my luggage | Clean the Table |EGPSR  | |
-|18:00|  | Carry my luggage | Clean the Table | EGPSR | |
-|19:00| Team-Leader Meeting| Carry my luggage | Clean the Table | EGPSR | |
-|20:00| Robot Inspection and Poster Session | Team-Leader Meeting | Team-Leader Meeting | | |
-
+|17:00|  |  |  |  | |
+|18:00|  | Storing Groceries | Clean the Table | EGPSR | |
+|19:00| |  |  |  | |
+|19:30| Robot Inspection | Team-Leader Meeting | Team-Leader Meeting | | |
 
 
 
@@ -50,12 +49,28 @@ Team Order|
 |SocRob@Home|
 |Gentlebots|
 
-### Arena Mappig Slots
-| Time | Team |
-|-----------|-------|
-|17:00|SocRob@Home|
-|17:20|Gentlebots|
-|17:40|LAR@Home|
+### Receptionist
+Team Order|
+|-------|
+|Gentlebots|
+|LAR@Home|
+|SocRob@Home|
+
+
+### Carry my luggage
+Team Order|
+|-------|
+|SocRob@Home|
+|Gentlebots|
+|LAR@Home|
+
+
+### Storing Groceries
+Team Order|
+|-------|
+|LAR@Home|
+|SocRob@Home|
+|Gentlebots|
 
 
 ## Arenas
