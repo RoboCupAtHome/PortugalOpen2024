@@ -24,9 +24,9 @@
 
 | (current) rank   | Team Name   | Poster | Storing G. | Recept. | Carry L. | GPSR | Serve B. | Total scores (stage 1) |
 | ---------------- | ----------- | ------ | ---------- | ------- | -------- | --- | ----- | ---------------------- |
-| 2 | Gentlebots                 | -      | -          | 555     |     -    |  -  | -     | 555 |
-| 1 | LAR@Home                   | -      | -          | 645     | -        | -   | -     | 645 |
-| 3 | SocRob@Home                | -      | -          | 530     | -        |  -  | -     | 530 |
+| 3 | Gentlebots                 | -      | -          | 555     | 15       |  -  | -     | 570 |
+| 1 | LAR@Home                   | -      | -          | 645     | 115      | -   | -     | 760 |
+| 2 | SocRob@Home                | -      | -          | 580     | -        |  -  | -     | 580 |
 
 
 ## Schedule
