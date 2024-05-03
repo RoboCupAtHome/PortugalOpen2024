@@ -32,8 +32,10 @@
 |11:00| |  |  |  | |
 |12:00| | | |  | |
 |13:00| |  |  |  | |
-|14:00| | Carry my luggage  | GPSR | Stickler for the Rules | |
+|14:00| |   | GPSR | Stickler for the Rules | |
+|14:30| | Opening Ceremony  |  |  | |
 |15:00| |   |  |  | |
+|15:30| | Carry my luggage  |  |  | |
 |16:00| Team Leader Meeting | | | | |
 |17:00|  |  |  |  | |
 |18:00|  | Storing Groceries | Clean the Table | EGPSR | |
@@ -97,6 +99,7 @@ Announce location for Poster.
 ![](maps/stage_one/map_receptionist.png)
 
 Host's favorite drink: Iced Tea
+
 Host's name: Noah
 
 ### Storing Groceries
