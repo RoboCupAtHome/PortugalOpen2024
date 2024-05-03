@@ -131,8 +131,19 @@ The breakfast needs to be served on the kitchen table
 ### Clean the Table
 ![](maps/stage_two/map_clean_the_table.png)
 
+Dishes are on the kitchen table
+
+The dish washer tab will be on the fridge
+
+
 ### Stickler for the Rules
 ![](maps/stage_two/map_stickler_for_the_rules.png)
+
+The bedroom is the forbidden room
+
+Shoes need to be near the entrance inoutlined area
+
+Trash can be dropped in either the bin or the trash bin
 
 ### EGPSR
 ![](maps/stage_two/map_egpsr.png)
