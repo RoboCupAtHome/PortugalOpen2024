@@ -80,6 +80,37 @@ Team Order|
 |SocRob@Home|
 |Gentlebots|
 
+### Serve Breakfast
+Team Order|
+|-------|
+|LAR@Home|
+|SocRob@Home|
+|Gentlebots|
+
+### GPSR
+Team Order|
+|-------|
+|Gentlebots|
+|LAR@Home|
+|SocRob@Home|
+
+
+### Stickler/Clean the Table
+Team Order|
+|-------|
+|SocRob@Home|
+|Gentlebots|
+|LAR@Home|
+
+
+### Stickler/Clean the Table
+Team Order|
+|-------|
+|LAR@Home|
+|SocRob@Home|
+|Gentlebots|
+
+
 
 ## Arenas
 
