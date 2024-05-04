@@ -37,14 +37,14 @@
 |10:00|     | Receptionist | Serve Breakfast | Restaurant | |
 |11:00| |  |  |  | |
 |12:00| | | |  | |
-|13:00| |  |  |  | |
-|14:00| |   | GPSR | Stickler for the Rules | |
+|13:00| |  | GPSR | EGPSR | |
+|14:00| |   |  |  | |
 |14:30| | Opening Ceremony  |  |  | |
 |15:00| |   |  |  | |
-|15:30| | Carry my luggage  |  |  | |
+|15:30| | Carry my luggage  | Stickler for the Rules |  | |
 |16:00| Team Leader Meeting | | | | |
 |17:00|  |  |  |  | |
-|18:00|  | Storing Groceries | Clean the Table | EGPSR | |
+|18:00|  | Storing Groceries | Clean the Table |  | |
 |19:00| |  |  |  | |
 |19:30| Robot Inspection | Team-Leader Meeting | Team-Leader Meeting | | |
 
