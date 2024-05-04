@@ -32,8 +32,8 @@
 | (current) rank   | Team Name   | Stage 1 | E-GPSR | Clean T. | Restaurant | Stickler R. | Total scores (stage 1+2) |
 | ----------------  | ----------- | ------ | ---------- | ------- | -------- | --- | ------------------- |
 | 3 | Gentlebots    | 1135     |   -        |   -     |     -     |  -   | 1135 |
-| 2 | LAR@Home      | 1505   | -        |   -   |   -    | -    | 1505 |
-| 1 | SocRob@Home   | 975    | -        |   -     |    -   | 1000 | 1975 |
+| 1 | LAR@Home      | 1505   | -        |   -   |   -    | 500  | 2005 |
+| 2 | SocRob@Home   | 975    | -        |   -     |    -   | 1000 | 1975 |
 
 
 ## Schedule
@@ -42,9 +42,10 @@
 |-----|------------|------------|------------|------------|
 |09:00|     |  |  |  | |
 |10:00|     | Receptionist | Serve Breakfast | Restaurant | |
-|11:00| |  |  |  | |
+|11:00| |  |  |EGPSR  | |
 |12:00| | | |  | |
-|13:00| |  | GPSR | EGPSR | |
+|13:00| |  | GPSR |  | |
+|13:30| | | |  Closing Ceremony| |
 |14:00| |   |  |  | |
 |14:30| | Opening Ceremony  |  |  | |
 |15:00| |   |  |  | |
