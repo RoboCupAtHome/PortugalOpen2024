@@ -29,6 +29,13 @@
 | 3 | SocRob@Home                | -      | 95         | 580     | -        |  300  | -     | 975 |
 
 
+| (current) rank   | Team Name   | Stage 1 | E-GPSR | Clean T. | Restaurant | Stickler R. | Total scores (stage 1+2) |
+| ----------------  | ----------- | ------ | ---------- | ------- | -------- | --- | ------------------- |
+| 3 | Gentlebots    | 1135     |   -        |   -     |     -     |  -   | 1135 |
+| 2 | LAR@Home      | 1505   | -        |   -   |   -    | -    | 1505 |
+| 1 | SocRob@Home   | 975    | -        |   -     |    -   | 1000 | 1975 |
+
+
 ## Schedule
 
 |     | Thu May 2 | Fri May 3 | Sat May 4 | Sun May 5 |
