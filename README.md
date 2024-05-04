@@ -41,10 +41,11 @@
 |14:00| |   |  |  | |
 |14:30| | Opening Ceremony  |  |  | |
 |15:00| |   |  |  | |
-|15:30| | Carry my luggage  | Stickler for the Rules |  | |
-|16:00| Team Leader Meeting | | | | |
+|15:30| | Carry my luggage  |  |  | |
+|16:00| Team Leader Meeting | | Stickler for the Rules | | |
 |17:00|  |  |  |  | |
-|18:00|  | Storing Groceries | Clean the Table |  | |
+|18:00|  | Storing Groceries |  |  | |
+|18:30|  |  | Clean the Table |  | |
 |19:00| |  |  |  | |
 |19:30| Robot Inspection | Team-Leader Meeting | Team-Leader Meeting | | |
 
