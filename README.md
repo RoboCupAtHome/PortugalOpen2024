@@ -32,8 +32,8 @@
 | (current) rank   | Team Name   | Stage 1 | E-GPSR | Clean T. | Restaurant | Stickler R. | Total scores (stage 1+2) |
 | ----------------  | ----------- | ------ | ---------- | ------- | -------- | --- | ------------------- |
 | 3 | Gentlebots    | 1135     |   -        |   -     |     -     |  -   | 1135 |
-| 1 | LAR@Home      | 1505   | -        |   -   |   -    | 500  | 2005 |
-| 2 | SocRob@Home   | 975    | -        |   -     |    -   | 1000 | 1975 |
+| 1 | LAR@Home      | 1505   | -        |   -   |   1120    | 500  | 3125 |
+| 2 | SocRob@Home   | 975    | -        |   -     |  200   | 1000 | 2175 |
 
 
 ## Schedule
